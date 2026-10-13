@@ -1,6 +1,6 @@
 # Hi, I'm CJ!
 **About me**
-* Sophmore @ UIC Studying Computer Science
+* Junior @ UIC Studying Computer Science
 * Experienced with **C/C++, Python, React**
 * Always Interested to Build Something Cool! 🚀
 * Contact me jacobalamon@gmail.com 📞
@@ -10,6 +10,7 @@
 * Python
 * HTML/CSS
 * JavaScript
+* Java
 
 **Framework/Tools**
 * React
